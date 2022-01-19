@@ -1,0 +1,33 @@
+Date;Compte d’origine;Compte d’arrivée;Montant en euros;Description
+01/12/2021;Liabilities:CreditCard;Expenses:Toys;24,95 €;Figurine Pat Patrouille « Chase » 
+01/12/2021;Liabilities:CreditCard;Expenses:Toys;24,95 €;Figurine Pat Patrouille « Stella »
+01/12/2021;Liabilities:CreditCard;Expenses:Toys;24,95 €;Figurine Pat Patrouille « Ruben » 
+03/12/2021;Liabilities:CreditCard;Expenses:Food;232,00 €;Courses Monoprix
+04/12/2021;Assets:Cash;Expenses:Food;32,00 €;Marché primeur
+05/12/2021;Assets:BankAccount;Expenses:Other;10,00 €;Dont UNICEF
+05/12/2021;Income:Salary;Assets:BankAccount;4500,00 €;Virement de salaire
+06/12/2021;Assets:BankAccount;Expenses:Telecom;37,00 €;Box internet + mobile
+06/12/2021;Assets:BankAccount;Expenses:Telecom;14,99 €;Sosh (2ème forfait mobile)
+06/12/2021;Assets:BankAccount;Expenses:Pets;31,54 €;Assurance Animal Expert pour le chat
+06/12/2021;Income:Other;Assets:BankAccount;208,07 €;Allocations familiales
+07/12/2021;Assets:BankAccount;Expenses:Taxes;1219,00 €;Prélèvement des Impôts
+11/12/2021;Assets:BankAccount;Expenses:House;302,54 €;EDF
+11/12/2021;Liabilities:CreditCard;Assets:Cash;40,00 €;Retrait d’espèces
+13/12/2021;Liabilities:CreditCard;Expenses:Car;70,18 €;Plein d’essence
+14/12/2021;Liabilities:CreditCard;Expenses:Toys;23,00 €;Ardoise magique Pat Patrouille
+14/12/2021;Liabilities:CreditCard;Expenses:Toys;28,00 €;Monopoly la reine des neiges 2
+14/12/2021;Liabilities:CreditCard;Expenses:Toys;25,00 €;Ma parure lumineuse Reine des neiges 2
+14/12/2021;Liabilities:CreditCard;Expenses:Toys;36,00 €;Déguisement Elsa
+14/12/2021;Liabilities:CreditCard;Expenses:Toys;29,97 €;Camping car Peppa Pig
+16/12/2021;Liabilities:CreditCard;Expenses:Food;202,20 €;Courses Monoprix
+16/12/2021;Liabilities:CreditCard;Expenses:Food;114,90 €;Champagne Cliquot
+16/12/2021;Liabilities:CreditCard;Expenses:Food;270,00 €;Caviar Beluga
+17/12/2021;Liabilities:CreditCard;Expenses:Other;80,00 €;Location matériel de ski Joséphine
+17/12/2021;Liabilities:CreditCard;Expenses:Other;80,00 €;Location matériel de ski Rose
+17/12/2021;Liabilities:CreditCard;Expenses:Other;80,00 €;Location matériel de ski Aurore
+20/12/2021;Liabilities:CreditCard;Expenses:Other;200,00 €;ESF pioupious
+20/12/2021;Liabilities:CreditCard;Expenses:Other;200,00 €;ESF pioupious
+20/12/2021;Liabilities:CreditCard;Expenses:Other;200,00 €;ESF 1ère étoile
+22/12/2021;Liabilities:CreditCard;Expenses:Food;263,40 €;Courses Monoprix
+23/12/2021;Liabilities:CreditCard;Expenses:Food;76,60 €;Boucher
+27/12/2021;Assets:BankAccount;Liabilities:CreditCard;2326,10 €;Débit différé CB
